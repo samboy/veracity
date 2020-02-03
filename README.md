@@ -42,10 +42,10 @@ the best system for their project's needs.
 
 # See Also
 
-The book [Version Control by Example](https://ericsink.com/vcbe/vcbe_usletter_lo.pdf) (PDF download)
-has an entire chapter about Veracity.
+* The book [Version Control by Example](https://ericsink.com/vcbe/vcbe_usletter_lo.pdf) (PDF download) has an entire chapter about Veracity.
+* Veracity’s [webpage](http://veracity-scm.com/) is still online.
 
-# Note
+# Notes
 
 This README.md file is based on the [now-deleted Wikipedia page on
 Veracity](http://archive.is/2G7To).  The Wikipedia page was deleted 
@@ -56,3 +56,6 @@ The text of this file is available under the Creative Commons
 Attribution-ShareAlike License; additional terms may apply.  Since the 
 page’s history is [unknown](https://archive.is/Q1qk8), attribution 
 credit goes to the Wikipedia and its editors.
+
+With the exception of this README.md file, all other files are the same
+as those in the 2013 final veracity-source-2.5.0.11065.tar.gz tarball.
