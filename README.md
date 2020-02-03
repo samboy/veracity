@@ -54,5 +54,5 @@ widespread usage nor popularity.
 
 The text of this file is available under the Creative Commons
 Attribution-ShareAlike License; additional terms may apply.  Since the 
-page’s history is [unknown](https://en.wikipedia.org/w/index.php?title=Veracity_(software%29&action=history), attribution credit goes to the Wikipedia and
-its editors.
+page’s history is [unknown](https://archive.is/Q1qk8), attribution 
+credit goes to the Wikipedia and its editors.
